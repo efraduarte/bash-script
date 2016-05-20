@@ -1,4 +1,5 @@
 #!/bin/bash
+# ./create-user bob mary job
 for u in $*
 
 do
